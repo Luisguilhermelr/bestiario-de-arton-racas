@@ -1,0 +1,44 @@
+{
+  "id": "bestiario-de-arton-racas",
+  "title": "Bestiário de Arton — Raças",
+  "description": "As raças jogáveis apresentadas no Apêndice A do Bestiário de Arton para o sistema Tormenta20: Elfo-do-Gelo, Lâmia, Manotauro, Salamandra e Vampiro, com seus poderes raciais, automações básicas e as habilidades de licantropia (lobisomem).",
+  "version": "1.1.0",
+  "authors": [
+    {
+      "name": "@xx_.luis._xx",
+      "url": "https://github.com/Luisguilhermelr"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "url": "https://github.com/Luisguilhermelr/bestiario-de-arton-racas",
+  "manifest": "https://github.com/Luisguilhermelr/bestiario-de-arton-racas/releases/latest/download/module.json",
+  "download": "https://github.com/Luisguilhermelr/bestiario-de-arton-racas/releases/latest/download/module.zip",
+  "readme": "https://github.com/Luisguilhermelr/bestiario-de-arton-racas/blob/main/README.md",
+  "bugs": "https://github.com/Luisguilhermelr/bestiario-de-arton-racas/issues",
+  "relationships": {
+    "systems": [
+      {
+        "compatibility": {
+          "minimum": "1.5.0",
+          "verified": "1.6.5"
+        },
+        "id": "tormenta20",
+        "type": "system"
+      }
+    ]
+  },
+  "packs": [
+    {
+      "label": "Raças do Bestiário de Arton",
+      "locked": true,
+      "name": "racas",
+      "path": "./packs/racas",
+      "system": "tormenta20",
+      "type": "Item"
+    }
+  ],
+  "flags": {}
+}
