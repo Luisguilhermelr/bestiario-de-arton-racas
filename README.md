@@ -1,1 +1,122 @@
-IyBCZXN0acOhcmlvIGRlIEFydG9uIOKAlCBSYcOnYXMKCk3Ds2R1bG8gcGFyYSAqKkZvdW5kcnkgVlRUKiogcXVlIGFkaWNpb25hIGFvIHNpc3RlbWEgKipUb3JtZW50YTIwKiogYXMgcmHDp2FzIGpvZ8OhdmVpcwphcHJlc2VudGFkYXMgbm8gKipBcMOqbmRpY2UgQSDigJQgUmHDp2FzIHBhcmEgUGVyc29uYWdlbnMqKiBkbyAqQmVzdGnDoXJpbyBkZSBBcnRvbiouCgo+ICoqSWQgZG8gbcOzZHVsbzoqKiBgYmVzdGlhcmlvLWRlLWFydG9uLXJhY2FzYAo+ICoqQXV0b3I6KiogQHh4Xy5sdWlzLl94eAo+ICoqVmVyc8OjbzoqKiAxLjEuMAoKLS0tCgojIyBJbnN0YWxhw6fDo28gcsOhcGlkYSBubyBGb3VuZHJ5CgpFbSAqKkFkZC1vbiBNb2R1bGVzIOKGkiBJbnN0YWxsIE1vZHVsZSoqLCBjb2xlIGlzdG8gbm8gY2FtcG8gKipVUkwgZG8gTWFuaWZlc3RvKio6CgpgYGAKaHR0cHM6Ly9naXRodWIuY29tL0x1aXNndWlsaGVybWVsci9iZXN0aWFyaW8tZGUtYXJ0b24tcmFjYXMvcmVsZWFzZXMvbGF0ZXN0L2Rvd25sb2FkL21vZHVsZS5qc29uCmBgYAoKQ2xpcXVlIGVtICoqSW5zdGFsbCoqIGUgZGVwb2lzIGF0aXZlIG8gbcOzZHVsbyBlbSAqKkdlcmVuY2lhciBNw7NkdWxvcyoqLgpPIEZvdW5kcnkgYmFpeGEgZSBhdHVhbGl6YSBvIG3Ds2R1bG8gc296aW5obyBhIHBhcnRpciBkZXNzYSBVUkwuCgo+IFJlcG9zaXTDs3JpbzogaHR0cHM6Ly9naXRodWIuY29tL0x1aXNndWlsaGVybWVsci9iZXN0aWFyaW8tZGUtYXJ0b24tcmFjYXMKCi0tLQoKIyMgQ29udGXDumRvCgpPIGNvbXDDqm5kaW8gZGUgSXRlbnMgKipSYcOnYXMgZG8gQmVzdGnDoXJpbyBkZSBBcnRvbioqIChgcGFja3MvcmFjYXNgKSBjb250w6ltIHRyw6pzIHBhc3RhcywKY29tICoqNDUgaXRlbnMqKiBubyB0b3RhbCDigJQgKio1IHJhw6dhcyBlIDQwIHBvZGVyZXMqKiDigJQgY29uZmVyaWRvcyBubyBjb21ww6puZGlvOgoKLSAqKlJhw6dhcyoqIOKAlCBhcyA1IHJhw6dhcyBkYSBUYWJlbGEgQS0xOgogIC0gRWxmby1kby1HZWxvCiAgLSBMw6JtaWEKICAtIE1hbm90YXVybwogIC0gU2FsYW1hbmRyYQogIC0gVmFtcGlybwotICoqUG9kZXJlcyBSYWNpYWlzKiog4oCUIG9zIHBvZGVyZXMgZGUgY2FkYSByYcOnYSwgasOhIHZpbmN1bGFkb3MgYW9zIGBncmFudHNgIGRhcyByYcOnYXMKICBjb3JyZXNwb25kZW50ZXMsIGFsw6ltIGRvcyBwb2RlcmVzIG9wY2lvbmFpcyBxdWUgbsOjbyBlbnRyYW0gYXV0b21hdGljYW1lbnRlIG5hIGZpY2hhLgotICoqTGljYW50cm9waWEgKExvYmlzb21lbSkqKiDigJQgYXMgaGFiaWxpZGFkZXMgZGUgbGljYW50cm9waWEsIHVzYWRhcyBjb21vIGl0ZW5zIGRlCiAgaGFiaWxpZGFkZSAoYHR5cGU6IHBvZGVyYCkgZSBuw6NvIGNvbW8gdW1hIHJhw6dhLgoKIyMjIFBvZGVyZXMgYXV0b23DoXRpY29zIHBvciByYcOnYQoKfCBSYcOnYSB8IFBvZGVyZXMgY29uY2VkaWRvcyB8CnwgLS0tIHwgLS0tIHwKfCBFbGZvLWRvLUdlbG8gfCBHcmHDp2EgZGUgQmVsdWhnYSwgSGVyYW7Dp2EgR8OpbGlkYSwgU2VudGlkb3MgR2xhY2lhaXMgfAp8IEzDom1pYSB8IENvcnBvIEZlbGlubywgTWFnaWEgZGFzIEzDom1pYXMsIE5hdHVyZXphIFByZWRhZG9yYSwgVG9xdWUgUHPDrXF1aWNvIHwKfCBNYW5vdGF1cm8gfCBDYXNjb3MsIENoaWZyZXMsIENvcnB1bGVudG8sIE1lZG8gZGUgQWx0dXJhIHwKfCBTYWxhbWFuZHJhIHwgQ2Fsb3IgTmF0dXJhbCwgQ2F1ZGEsIENyaWEgZGFzIENoYW1hcywgRnJhcXVlemEgR2xhY2lhbCB8CnwgVmFtcGlybyB8IELDqm7Dp8Ojb3MgVmFtcMOtcmljYXMsIFJlc3F1w61jaW9zIGRhIE91dHJhIFZpZGEsIE5hdHVyZXphIE7Do28gVml2YSwgUGVyZGEgZGEgSHVtYW5pZGFkZSB8CgojIyMgUG9kZXJlcyBvcGNpb25haXMKCi0gKipBbG1hIGRhIEZvcm5hbGhhKiogKFNhbGFtYW5kcmEpIOKAlCBwb2RlciBkZSByYcOnYSBkZSA3wrogbsOtdmVsLCBkZXZlIHNlciBhZGljaW9uYWRvCiAgbWFudWFsbWVudGUgw6AgZmljaGEgbm8gbHVnYXIgZGUgdW0gcG9kZXIgZGUgY2xhc3NlLgotICoqQsOqbsOnw6NvcyBWYW1ww61yaWNhcyBpbmRpdmlkdWFpcyoqIOKAlCBhcyAxMSBiw6puw6fDo29zIGRlc2NyaXRhcyBubyBwb2RlciBhZ3JlZ2FkbwogICpCw6puw6fDo29zIFZhbXDDrXJpY2FzKiB0YW1iw6ltIGVzdMOjbyBubyBjb21ww6puZGlvIGNvbW8gaXRlbnMgc2VwYXJhZG9zLCBwYXJhIHNlcmVtCiAgYWRpY2lvbmFkYXMgw6AgZmljaGEgcXVhbmRvIG8gam9nYWRvciBlc2NvbGhlciBjYWRhIHVtYToKICBDdXJhIEFjZWxlcmFkYSwgRG9taW5hw6fDo28gVmFtcMOtcmljYSwgRHJlbmFyIFNhbmd1ZSwgRm9ybWEgZGUgTG9ibywgRm9ybWEgZGUgTW9yY2VnbywKICBHYXJyYXMsIE1hbnRvIGRhcyBTb21icmFzLCBQYXNzbyBWYW1ww61yaWNvLCBQcmVkYWRvciBTb3JyYXRlaXJvLCBQcmVzZW7Dp2EgTWFqZXN0b3NhCiAgZSBSZXNpbGnDqm5jaWEgU29tYnJpYS4KCiMjIyBMaWNhbnRyb3BpYSAoTG9iaXNvbWVtKQoKQXMgaGFiaWxpZGFkZXMgZGUgbG9iaXNvbWVtIGVzdMOjbyBuYSBwYXN0YSAqKkxpY2FudHJvcGlhIChMb2Jpc29tZW0pKiogZSBzw6NvIGl0ZW5zIGRlCmhhYmlsaWRhZGUgKGB0eXBlOiBwb2RlcmApLCBuw6NvIHVtYSByYcOnYS4gU8OjbyBlbGFzOgoKLSAqKkhhYmlsaWRhZGVzIGRlIExvYmlzb21lbSoqIOKAlCBpdGVtLXJlc3VtbyBjb20gdG9kYXMgYXMgaGFiaWxpZGFkZXMgZSBhcyBmb3JtYXMuCi0gKipBdmVyc8OjbyBhIE1pdHJhbCoqIOKAlCBmcmFxdWV6YTogZGFubyBleHRyYSBlIHBlcmRhIGRlIHZpZGEgY29tIG1pdHJhbC4KLSAqKkVtcGF0aWEgY29tIExvYm9zKiog4oCUIGLDtG51cyBjb20gbG9ib3MgZSBsb2Jvcy1kYXMtY2F2ZXJuYXMuCi0gKipNYWxkacOnw6NvIGRhIExpY2FudHJvcGlhKiog4oCUIGEgbW9yZGlkYSB0cmFuc21pdGUgbGljYW50cm9waWEgKEZvcnQgQ0QgQ29uKS4KLSAqKlNlbnRpZG9zIEFndcOnYWRvcyoqIOKAlCBjb25jZWRlIGZhcm8gZSB2aXPDo28gbmEgcGVudW1icmEgKGNvbSBlZmVpdG8gYXV0b23DoXRpY28pLgotICoqVHJhbnNmb3JtYcOnw6NvIEluY29udHJvbMOhdmVsKiog4oCUIGVmZWl0b3MgZGEgbGljYW50cm9waWEgZSBwZXJkYSBkZSBjb250cm9sZS4KLSAqKkZvcm1hIEjDrWJyaWRhKiog4oCUIGZvcm1hIGRlIGNvbWJhdGUsIGNvbSBhdGFxdWVzIG5hdHVyYWlzIGUgZWZlaXRvIGRlICsyIGVtIEZvcsOnYS4KLSAqKkZvcm1hIGRlIExvYm8qKiDigJQgZm9ybWEgZGUgbG9ibywgY29tIGRlc2xvY2FtZW50byAxNW0gZSBlZmVpdG8gZGUgKzIgZW0gRm9yw6dhLgotICoqQ29udHJvbGFyIExpY2FudHJvcGlhKiog4oCUIHBvZGVyIGRlIGRlc3Rpbm8gKGdlcmFsKSBwYXJhIGNvbnRyb2xhciBhIHRyYW5zZm9ybWHDp8Ojby4KCj4gKipVc28gZGFzIGZvcm1hczoqKiBvcyBlZmVpdG9zIGRlICpGb3JtYSBIw61icmlkYSogZSAqRm9ybWEgZGUgTG9ibyogdsOqbSAqKmRlc2F0aXZhZG9zCj4gcG9yIHBhZHLDo28qKi4gQXRpdmUgbyBlZmVpdG8gZG8gaXRlbSBhbyBhc3N1bWlyIGEgZm9ybWEgZSBkZXNhdGl2ZSBhbyB2b2x0YXIgw6AgZm9ybWEKPiBodW1hbm9pZGUuCgojIyBBdXRvbWHDp8OjbwoKT3MgcG9kZXJlcyB0cmF6ZW0gKipBY3RpdmUgRWZmZWN0cyoqIGVtYnV0aWRvcyAoMTYgZWZlaXRvcyBubyBjb21ww6puZGlvKSBwYXJhIG9zIGLDtG51cwptYWlzIGRpcmV0b3M6IGRlc2xvY2FtZW50bywgdGFtYW5obywgc2VudGlkb3MsIHJlZHXDp8OjbyBkZSBkYW5vL2ltdW5pZGFkZSwgcGVyw61jaWFzIGUKaW11bmlkYWRlcyBhIGNvbmRpw6fDtWVzLgpFZmVpdG9zIHF1ZSBkZXBlbmRlbSBkZSBlc2NvbGhhcywgY2VuYXMgb3UgdXNvIGF0aXZvIGRlIFBNIGZpY2FtIGFwZW5hcyBkZXNjcml0b3Mgbm8KdGV4dG8gZG8gcG9kZXIuCgojIyBJbnN0YWxhw6fDo28gbWFudWFsCgoxLiBGZWNoZSBvIEZvdW5kcnkgKG91IGFwZW5hcyByZWNhcnJlZ3VlIGNvbSBgRjVgIGRlcG9pcykuCjIuIENvcGllIGEgcGFzdGEgYGJlc3RpYXJpby1kZS1hcnRvbi1yYWNhc2AgcGFyYToKICAgLSBXaW5kb3dzOiBgJUxPQ0FMQVBQREFUQSVcRm91bmRyeVZUVFxEYXRhXG1vZHVsZXNcYAogICAtIExpbnV4OiBgfi8ubG9jYWwvc2hhcmUvRm91bmRyeVZUVC9EYXRhL21vZHVsZXMvYAozLiBBYnJhIG8gRm91bmRyeSBlIGVudHJlIG5vIG11bmRvIGNvbSBvIHNpc3RlbWEgKipUb3JtZW50YTIwKiouCjQuIEVtICoqR2VyZW5jaWFyIE3Ds2R1bG9zKiosIGF0aXZlICoqQmVzdGnDoXJpbyBkZSBBcnRvbiDigJQgUmHDp2FzKiouCjUuIFJlY2FycmVndWUgYSBww6FnaW5hIGNvbSBgRjVgLgo2LiBBYnJhIG8gY29tcMOqbmRpbyAqKlJhw6dhcyBkbyBCZXN0acOhcmlvIGRlIEFydG9uKiogZSBhcnJhc3RlIGEgcmHDp2EgZGVzZWphZGEgcGFyYSBhIGZpY2hhLgoKPiBTZSBhIG9ww6fDo28gKkFicmlyIHJhw6dhcyogZXN0aXZlciBhdGl2YSBubyBzaXN0ZW1hLCBhcnJhc3RhciBhIHJhw6dhIGFicmUgbyBkacOhbG9nbyBkZQo+IGRpc3RyaWJ1acOnw6NvIGRvcyBhdHJpYnV0b3MgZGluw6JtaWNvcy4gSXNzbyDDqSBvIGNvbXBvcnRhbWVudG8gZXNwZXJhZG8uCgojIyBSZXF1aXNpdG9zCgotIEZvdW5kcnkgVlRUICoqMTMgb3UgMTQqKgotIFNpc3RlbWEgKipUb3JtZW50YTIwIDEuNSsqKiAodmVyaWZpY2FkbyBlbSAxLjYuNSkKCiMjIE9ic2VydmHDp8O1ZXMKCi0gQ29udGXDumRvIGV4dHJhw61kbyBkbyBBcMOqbmRpY2UgQSBkbyAqQmVzdGnDoXJpbyBkZSBBcnRvbiogKEphbWLDtCBFZGl0b3JhKS4gTsOjbyBjb21lcmNpYWxpemFyCiAgZXN0ZSBtw7NkdWxvIG5lbSBzZXUgY29udGXDumRvLgotIENvbXBhdMOtdmVsIGNvbSBGb3VuZHJ5IFZUVCAxMy8xNCBlIFRvcm1lbnRhMjAgMS41Ky4KCiMjIENyw6lkaXRvcwoKVG9ybWVudGEyMCBlIG8gKkJlc3Rpw6FyaW8gZGUgQXJ0b24qIHPDo28gcHVibGljYcOnw7VlcyBkYSAqKkphbWLDtCBFZGl0b3JhKiouCgotLS0KCkZlaXRvIHBvciAqKkB4eF8ubHVpcy5feHgqKi4K
+# Bestiário de Arton — Raças
+
+Módulo para **Foundry VTT** que adiciona ao sistema **Tormenta20** as raças jogáveis
+apresentadas no **Apêndice A — Raças para Personagens** do *Bestiário de Arton*.
+
+> **Id do módulo:** `bestiario-de-arton-racas`
+> **Autor:** @xx_.luis._xx
+> **Versão:** 1.1.0
+
+---
+
+## Instalação rápida no Foundry
+
+Em **Add-on Modules → Install Module**, cole isto no campo **URL do Manifesto**:
+
+```
+https://github.com/Luisguilhermelr/bestiario-de-arton-racas/releases/latest/download/module.json
+```
+
+Clique em **Install** e depois ative o módulo em **Gerenciar Módulos**.
+O Foundry baixa e atualiza o módulo sozinho a partir dessa URL.
+
+> Repositório: https://github.com/Luisguilhermelr/bestiario-de-arton-racas
+
+---
+
+## Conteúdo
+
+O compêndio de Itens **Raças do Bestiário de Arton** (`packs/racas`) contém três pastas,
+com **45 itens** no total — **5 raças e 40 poderes** — conferidos no compêndio:
+
+- **Raças** — as 5 raças da Tabela A-1:
+  - Elfo-do-Gelo
+  - Lâmia
+  - Manotauro
+  - Salamandra
+  - Vampiro
+- **Poderes Raciais** — os poderes de cada raça, já vinculados aos `grants` das raças
+  correspondentes, além dos poderes opcionais que não entram automaticamente na ficha.
+- **Licantropia (Lobisomem)** — as habilidades de licantropia, usadas como itens de
+  habilidade (`type: poder`) e não como uma raça.
+
+### Poderes automáticos por raça
+
+| Raça | Poderes concedidos |
+| --- | --- |
+| Elfo-do-Gelo | Graça de Beluhga, Herança Gélida, Sentidos Glaciais |
+| Lâmia | Corpo Felino, Magia das Lâmias, Natureza Predadora, Toque Psíquico |
+| Manotauro | Cascos, Chifres, Corpulento, Medo de Altura |
+| Salamandra | Calor Natural, Cauda, Cria das Chamas, Fraqueza Glacial |
+| Vampiro | Bênçãos Vampíricas, Resquícios da Outra Vida, Natureza Não Viva, Perda da Humanidade |
+
+### Poderes opcionais
+
+- **Alma da Fornalha** (Salamandra) — poder de raça de 7º nível, deve ser adicionado
+  manualmente à ficha no lugar de um poder de classe.
+- **Bênçãos Vampíricas individuais** — as 11 bênçãos descritas no poder agregado
+  *Bênçãos Vampíricas* também estão no compêndio como itens separados, para serem
+  adicionadas à ficha quando o jogador escolher cada uma:
+  Cura Acelerada, Dominação Vampírica, Drenar Sangue, Forma de Lobo, Forma de Morcego,
+  Garras, Manto das Sombras, Passo Vampírico, Predador Sorrateiro, Presença Majestosa
+  e Resiliência Sombria.
+
+### Licantropia (Lobisomem)
+
+As habilidades de lobisomem estão na pasta **Licantropia (Lobisomem)** e são itens de
+habilidade (`type: poder`), não uma raça. São elas:
+
+- **Habilidades de Lobisomem** — item-resumo com todas as habilidades e as formas.
+- **Aversão a Mitral** — fraqueza: dano extra e perda de vida com mitral.
+- **Empatia com Lobos** — bônus com lobos e lobos-das-cavernas.
+- **Maldição da Licantropia** — a mordida transmite licantropia (Fort CD Con).
+- **Sentidos Aguçados** — concede faro e visão na penumbra (com efeito automático).
+- **Transformação Incontrolável** — efeitos da licantropia e perda de controle.
+- **Forma Híbrida** — forma de combate, com ataques naturais e efeito de +2 em Força.
+- **Forma de Lobo** — forma de lobo, com deslocamento 15m e efeito de +2 em Força.
+- **Controlar Licantropia** — poder de destino (geral) para controlar a transformação.
+
+> **Uso das formas:** os efeitos de *Forma Híbrida* e *Forma de Lobo* vêm **desativados
+> por padrão**. Ative o efeito do item ao assumir a forma e desative ao voltar à forma
+> humanoide.
+
+## Automação
+
+Os poderes trazem **Active Effects** embutidos (16 efeitos no compêndio) para os bônus
+mais diretos: deslocamento, tamanho, sentidos, redução de dano/imunidade, perícias e
+imunidades a condições.
+Efeitos que dependem de escolhas, cenas ou uso ativo de PM ficam apenas descritos no
+texto do poder.
+
+## Instalação manual
+
+1. Feche o Foundry (ou apenas recarregue com `F5` depois).
+2. Copie a pasta `bestiario-de-arton-racas` para:
+   - Windows: `%LOCALAPPDATA%\FoundryVTT\Data\modules\`
+   - Linux: `~/.local/share/FoundryVTT/Data/modules/`
+3. Abra o Foundry e entre no mundo com o sistema **Tormenta20**.
+4. Em **Gerenciar Módulos**, ative **Bestiário de Arton — Raças**.
+5. Recarregue a página com `F5`.
+6. Abra o compêndio **Raças do Bestiário de Arton** e arraste a raça desejada para a ficha.
+
+> Se a opção *Abrir raças* estiver ativa no sistema, arrastar a raça abre o diálogo de
+> distribuição dos atributos dinâmicos. Isso é o comportamento esperado.
+
+## Requisitos
+
+- Foundry VTT **13 ou 14**
+- Sistema **Tormenta20 1.5+** (verificado em 1.6.5)
+
+## Observações
+
+- Conteúdo extraído do Apêndice A do *Bestiário de Arton* (Jambô Editora). Não comercializar
+  este módulo nem seu conteúdo.
+- Compatível com Foundry VTT 13/14 e Tormenta20 1.5+.
+
+## Créditos
+
+Tormenta20 e o *Bestiário de Arton* são publicações da **Jambô Editora**.
+
+---
+
+Feito por **@xx_.luis._xx**.
